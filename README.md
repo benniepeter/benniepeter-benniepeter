@@ -19,8 +19,8 @@
 ## 📊 GitHub Analytics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benniepeter&show_icons=true&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=benniepeter&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benniepeter&layout=compact)
-
+## 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benniepeter&layout=compact&theme=dark&hide=html,css)
 ## 📞 Reach Me
 - **Phone:** +255 679 351001 | +255 750 531469  
 - **Email:** [victechfishv2@gmail.com](mailto:victechfishv2@gmail.com)  
