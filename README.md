@@ -23,5 +23,5 @@
 ## 📞 Reach Me
 - **Phone:** +255 679 351001 | +255 750 531469  
 - **Email:** [victechfishv2@gmail.com](mailto:victechfishv2@gmail.com)  
-- **Twitter:** [@bennymolel144](https://twitter.com/bennymolel144)  
-- **Pi Network:** @benniepeter  
+- **Twitter:** [@bennymolell44](https://twitter.com/bennymolel144)  
+- **Pi Network:** minepi.com/bennymongi44
