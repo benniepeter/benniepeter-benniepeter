@@ -1,3 +1,8 @@
+# 👋 Hello, I'm Bennie Peter Molell!
+
+## 🛠️ My Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pi Network](https://img.shields.io/badge/Pi_Network-FF9900?logo=pi&logoColor=white)
 ### 💻 Technical Profile
 **Name:** [BENNY PETER MOLELL]  
 **Role:** Pi Network Developer | Open Source Contributor  
