@@ -1,4 +1,4 @@
-# # 👋 Hello, I'm Victechfishv2.com!
+## 👋 Hello, I'm Bennie Peter Molell!!
 
 ## 🛠️ My Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -17,7 +17,7 @@
 📧 **Email:** victechfishv2@gmail.com  
 📱 **Phone:** +255 679 351001  
 🐦 **Twitter:** [@bennymolell44](https://twitter.com/bennymolell44)  
-🌐 **Pi Network:** @benniepeter
+🌐 **Pi Network:** @bennymongi44
 ### 🚀 Projects
 - [VicTechFish App](https://victechfish-v2.com) - Fish marketplace on Pi Network  
   ![Progress](https://img.shields.io/badge/Status-In_Development-yellow)
