@@ -23,6 +23,6 @@
 - Twitter: [@bennymolell44](https://twitter.com/yourhandle)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=benniepeter&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benniepeter&layout=compact)# benniepeter-benniepeter
+benniepeter-benniepeter
 My GitHub profile README with projects and stats  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benniepeter&layout=compact&theme=dark)
