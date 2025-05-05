@@ -2,6 +2,10 @@
 
 ## 🛠️ My Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+## 🌱 Currently Learning
+- Advanced Pi Network APIs
+- Cloudflare Workers
+- Python Django Framework
 ![Pi Network](https://img.shields.io/badge/Pi_Network-FF9900?logo=pi&logoColor=white)
 ### 💻 Technical Profile
 **Name:** [Victechfishv2.com]  
@@ -9,13 +13,16 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Pi Network](https://img.shields.io/badge/Pi_Network-FF9900?logo=pi&logoColor=white)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benniepeter&show_icons=true&theme=dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=benniepeter&theme=github)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benniepeter&layout=compact&theme=dark)
    ![GitHub Streak](https://streak-stats.demolab.com/?user=benniepeter&theme=dark)
 **Location:** Mwanza Tanzania 
+![Tanzania](https://img.shields.io/badge/From-Tanzania-1E8449)
 ### 📞 Contact
 📧 **Email:** victechfishv2@gmail.com  
 📱 **Phone:** +255 679 351001  
 🐦 **Twitter:** [@bennymolell44](https://twitter.com/bennymolell44)  
+[![Support via Pi Network](https://img.shields.io/badge/Support-Pi_Network-FF9900)](https://minepi.com/benniepeter)
 🌐 **Pi Network:** @bennymongi44
 ### 🚀 Projects
 - [VicTechFish App](https://victechfish-v2.com) - Fish marketplace on Pi Network  
