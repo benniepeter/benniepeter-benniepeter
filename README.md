@@ -9,7 +9,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Pi Network](https://img.shields.io/badge/Pi_Network-FF9900?logo=pi&logoColor=white)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benniepeter&show_icons=true&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benniepeter&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benniepeter&layout=compact&theme=dark)
    ![GitHub Streak](https://streak-stats.demolab.com/?user=benniepeter&theme=dark)
 **Location:** Mwanza Tanzania 
