@@ -10,19 +10,18 @@
 - [VicTechFish App](https://victechfish-v2.com) - Fish marketplace on Pi Network  
 - [Cloudflare Docs Fork](https://github.com/benniepeter/cloudflare-docs) - Documentation contributions  
 
-### 🏆 Achievements
-- Pi Network Pioneer (2024)  
-- Google Developer Group Contributor  
+# 🏆 Achievements
+- Pi Network Pioneer (2024)
+- Google Developer Group Contributor
 - 10+ Open Source PRs Merged
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benniepeter&show_icons=true&theme=dark)
- **Reach Me:** 
-- Phone NO.
-- +255679351001
-- +255750531469           
-- Email: victechfishv2@gmail.com  
-- Twitter: [@bennymolell44](https://twitter.com/yourhandle)
 
+## 📊 GitHub Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benniepeter&show_icons=true&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=benniepeter&theme=dark)
-benniepeter-benniepeter
-My GitHub profile README with projects and stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benniepeter&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benniepeter&layout=compact)
+
+## 📞 Reach Me
+- **Phone:** +255 679 351001 | +255 750 531469  
+- **Email:** [victechfishv2@gmail.com](mailto:victechfishv2@gmail.com)  
+- **Twitter:** [@bennymolel144](https://twitter.com/bennymolel144)  
+- **Pi Network:** @benniepeter  
