@@ -1,18 +1,25 @@
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=benniepeter.benniepeter)
-## 👋 Hello, I'm Bennie Peter Molell!!
+# Bennie Peter Molell  
+  ### Python Developer | Tech Enthusiast  
 
 ## 🛠️ My Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-## 🎯 Skills Matrix
-| Skill          | Level  | Projects Used |
-|----------------|--------|---------------|
-| Python         | ★★★★☆  | VicTechFish    |
-| Pi Network SDK | ★★★★☆  | VicTechFish    |
-| Documentation  | ★★★★☆  | Cloudflare Docs|
+### My Tech Stack  
+  - **Python**: ★★★★☆  
+  - **Pi Network SDK**: ★★★★☆  
+  - **Git/GitHub**: ★★★☆☆  
+  - **Cloudflare**: ★★★☆☆ 
+| Skill           | Level    | Projects Used                     |  
+  |-----------------|----------|-----------------------------------|  
+  | Python          | ★★★★☆    | VicTechFi (Fintech API Project)   |  
+  | Pi Network SDK  | ★★★★☆    | VicTechFi (Blockchain Integration)|  
+  | Documentation   | ★★★★☆    | Cloudflare Docs (Technical Writer)|  
 ## 🌱 Currently Learning
 - Advanced Pi Network APIs
 - Cloudflare Workers
 - Python Django Framework
+- JavaScript  
+  - Cloud Computing (AWS Basics)  
+  - Advanced Python Frameworks   
 ![Pi Network](https://img.shields.io/badge/Pi_Network-FF9900?logo=pi&logoColor=white)
 ### 💻 Technical Profile
 **Name:** [Victechfishv2.com]  
@@ -30,6 +37,10 @@
 📧 **Email:** victechfishv2@gmail.com  
 📱 **Phone:** +255 679 351001  
 🐦 **Twitter:** [@bennymolell44](https://twitter.com/bennymolell44)  
+### Connect With Me
+  - GitHub: [github.com/yourusername](https://github.com/yourusername)  
+  - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+  - Email: yourname@example.com  
 [![Support via Pi Network](https://img.shields.io/badge/Support-Pi_Network-FF9900)](https://minepi.com/benniepeter)
 🌐 **Pi Network:** @bennymongi44
 ### 🚀 Projects
