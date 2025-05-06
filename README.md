@@ -1,7 +1,7 @@
-**![Visitor** Count](https://visitor-badge.glitch.me/badge?page_id=benniepeter.benniepeter)
+**![Visitor** Count](https://visitor-badge.glitch.me/badge?
+page_id=benniepeter.benniepeter)
 **# Bennie Peter Molell**  
   ### Python Developer | Tech Enthusiast  
-
 ## 🛠️ My Tech Stack
 ### My Tech Stack  
   - **Python**: ★★★★☆  
