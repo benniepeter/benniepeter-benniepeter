@@ -1,5 +1,5 @@
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=benniepeter.benniepeter)
-# Bennie Peter Molell  
+**# Bennie Peter Molell**  
   ### Python Developer | Tech Enthusiast  
 
 ## 🛠️ My Tech Stack
@@ -36,9 +36,8 @@
 ### 📞 Contact
 📧 **Email:** victechfishv2@gmail.com  
 📱 **Phone:** +255 679 351001  
-🐦 **Twitter:** [@bennymolell44](https://twitter.com/bennymolell44)  
-### Connect With Me
-  - GitHub: [github.com/yourusername](https://github.com/yourusername)  
+🐦 **Twitter:** [@bennymongi44](https://twitter.com/bennymongi44)  
+ **-GitHub:** [github.com/yourusername](https://github.com/yourusername)  
   - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
   - Email: yourname@example.com  
 [![Support via Pi Network](https://img.shields.io/badge/Support-Pi_Network-FF9900)](https://minepi.com/benniepeter)
@@ -48,15 +47,13 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=benniepeter&margin-w=15&no-frame=true)
 - [VicTechFish App](https://victechfish-v2.com) - Fish marketplace on Pi Network
 - ## 🌟 Featured Projects
-
 ### VicTechFish Pi App
 [![VicTechFish](https://img.shields.io/badge/VicTechFish-Pi_Network-FF9900)](https://victechfish-v2.com)
 Fish marketplace platform built on Pi Network
-
 ### Cloudflare Docs Contributions
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-Docs-F38020)](https://github.com/cloudflare/cloudflare-docs)
 Open-source documentation contributions
-  ![Progress](https://img.shields.io/badge/Status-In_Development-yellow)
+![Progress](https://img.shields.io/badge/Status-In_Development-yellow)
 - [Cloudflare Docs Contributions](https://github.com/cloudflare/cloudflare-docs)  
   ![PRs](https://img.shields.io/badge/PRs-2-blue)
 # 🏆 Achievements
